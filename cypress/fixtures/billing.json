@@ -1,0 +1,14 @@
+{
+  "firstName": "Elvin",
+  "lastName": "Ciqueira",
+  "company": "EBAC",
+  "country": "Brasil",
+  "address1": "Hogwarts",
+  "address2": "Corvinal",
+  "city": "Scotland",
+  "state": "São Paulo",
+  "phone": "1190010010",
+  "postCode": "10010100",
+  "email": "aluno_ebac@gmail.com",
+  "paymentMethod": "bacs"
+}

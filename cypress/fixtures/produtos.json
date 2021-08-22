@@ -1,0 +1,28 @@
+{
+  "produtos": [
+    {
+      "nome": "Ariel Roll Sleeve Sweatshirt",
+      "tamanho": "M",
+      "cor": "Red",
+      "quantidade": 1
+    },
+    {
+      "nome": "Aero Daily Fitness Tee",
+      "tamanho": "M",
+      "cor": "Black",
+      "quantidade": 1
+    },
+    {
+      "nome": "Argus All-Weather Tank",
+      "tamanho": "L",
+      "cor": "Gray",
+      "quantidade": 1
+    },
+    {
+      "nome": "Apollo Running Short",
+      "tamanho": "32",
+      "cor": "Black",
+      "quantidade": 1
+    }
+  ]
+}
