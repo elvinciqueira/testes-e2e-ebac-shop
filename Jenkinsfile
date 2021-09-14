@@ -7,7 +7,7 @@ pipeline {
                 git branch: 'main' url: 'git@github.com:elvinciqueira/testes-e2e-ebac-shop.git'
             }
         }
-        stage('Install dependecies') {
+        stage('Install dependencies') {
             steps {
                 sh 'npm install'
             }
